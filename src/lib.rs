@@ -1,4 +1,4 @@
-pub use hc_sr04;
+pub use hc_sr04::*;
 #[cfg(test)]
 mod tests {
     use super::*;
